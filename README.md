@@ -2,4 +2,4 @@ In this exercise you will check your understanding of simulated annealing by imp
 
 To launch the notebook, run the following command from a terminal with anaconda3 installed and on the application path:
 
-    `jupyter notebook AIND-Simulated_Annealing.ipynb`
+    jupyter notebook AIND-Simulated_Annealing.ipynb
